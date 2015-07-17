@@ -30,7 +30,9 @@ a message that is written in advance, and queue up for you
 to read at your leisure.
 For example, how long would it have taken you to read all this?
 If it had been sent as an email message instead of a real-time series of thoughts?
-I know for a fact that it took you 6 minutes, in real-time,
+I know for a fact that it took you 7 minutes, in real-time,
 since that’s what I _programmed_ it to do, 
 when you could have read it in 1/8th that time as an email.
-Sorry to take up your time, but a live demo is worth a thousand words
+Sorry to take up your time, but a live demo is worth a thousand words, thanks, peter
+https://github.com/pburkholder/endthewaronemail
+
