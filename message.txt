@@ -1,0 +1,36 @@
+So here’s my _*demonstration*_ to #endthewaronemail that I didn’t have a chance to do at CSE sync:
+Some questions: Are there any data that email is broken?
+Are we gathering any data on whether Slack is better or worse?
+Why are we doing this by fiat instead a thoughtful experiment?
+.
+Further why are we attempting to do this at the very same time that
+we’re just establishing patterns of how to use the tool at all, let alone as a 'replacement' for email.
+I suspect we would never advise our customer to rollout Chef on their teams the way
+Slack is being rolledout here: “All of you stop using sshpuppetlogic now! You must use Chef now instead!"
+But those are ephemeral concerns.
+.
+Here are some fears (myths?) that I have around Slack in the long term 
+- People will disconnect so they can focus, so that a synchronous tool will become async — and
+then we can’t reach them when we need them _now_, OR
+(corollary), they’ll be so attached to chats that we’ll be more interrupted, less focussed
+- People who are not in the same time zones will be severely disadvantaged in keeping up information
+- Overreliance on short-format comms results in ‘systems 1’ thinking, and poor decision-making
+- Since there’s no equivalent to ‘Inbox 0’ in Slack, and no way to
+differentiate conversational threads, people (speaking for myself perhaps)
+will read only what seems most current, as with Twitter, and we'll have great gaps in what one should know.
+.
+Email gets unfair blame: 
+Emails sucks not because the medium sucks, but because the important ones are cognitively demanding. Slack 
+won't make that go away, it'll just bury the problem in busyness. I suspect.
+You’ll always hate what ever tool is queueing up stuff that is ‘hard’ i.e.. cognitively demanding
+.
+Lastly, reading a conversation in real-time, if there’s any real content to it,
+is going to take a lot longer than to read and digest
+a message that is written in advance, and queue up for you
+to read at your leisure.
+For example, how long would it have taken you to read all this?
+If it had been sent as an email message instead of a real-time series of thoughts?
+I know for a fact that it took you 6 minutes, in real-time,
+since that’s what I _programmed_ it to do, 
+when you could have read it in 1/8th that time as an email.
+Sorry to take up your time, but a live demo is worth a thousand words
