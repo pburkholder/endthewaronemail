@@ -1,4 +1,4 @@
-Uses slackcat, https://github.com/rlister/slackcat, to feed a rant, over seven minutes
+Uses slackcat, https://github.com/rlister/slackcat, to feed a rant, over seven minutes,
 about why
 email still has value into a Slack channel. I deliberately included syntax 
 errors to make it seem like a real-time composition.
